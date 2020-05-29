@@ -9,6 +9,7 @@ color: #0000f0;
 h2 {
   color: #cf3883;
   font-weight: 200;
+  font-family: 'Pacifico', cursive;
   }
 
 ul {
@@ -21,4 +22,10 @@ ol {
 
 li {
   color: #bbabe7;
+}
+#container {
+  max-height: 500px;
+  display: flex;
+  flex-flow: column wrap;
+  background-color: #98bef0;
 }
