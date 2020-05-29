@@ -29,3 +29,9 @@ li {
   flex-flow: column wrap;
   background-color: #bcd3f1;
 }
+
+body {
+  background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
+  background-color: #c5c5c5;
+ }
+
