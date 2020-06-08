@@ -5,15 +5,10 @@
 
 #### _Creation of a portfolio site to host past and future projects for prospective employers_	
 
-  
-
-#### By _**Tristan Emmerson**_
-
-  
+#### By _**Tristan Emmerson**_ 
 
 ## **Description**
 
-  
 
 _This project was provided to allow students to exert creative control and exercise all concepts that have been learned at Epicodus thus far. This site aims to provide biopic and background information about the student, as well as display their work in a clean and elegant form for potential employers as well as convey competence in the course material_
 
@@ -21,50 +16,31 @@ _This project was provided to allow students to exert creative control and exerc
 
 ## **Setup/Installation Requirements**
 
-  
-
 *  _download/install Google Chrome Browser [here](https://www.google.com/chrome/)_
 
-*  _double-click my-first-webpage.html from cloned repository and **marvel** at the **wonder** therein_
-
-*  _(if modifying for personal use) **FOR WINDOWS:** download/install Git for Windows [here](https://gitforwindows.org/)_ (v2.62.2 or newer)
-
-*  _(if modifying for personal use) **FOR MAC USERS:** use preinstalled terminal software_
-
-*  _(if modifying for personal use) clone repository via Terminal/Git for Windows from Github [here](https://github.com/tmemmerson/portfolio.git)_
+*  _live view available [here](https://tmemmerson.github.io/portfolio) from cloned repository and **marvel** at the **wonder** therein_
 
 
-  
+*  _(if modifying for personal use) clone repository via Github [here](https://github.com/tmemmerson/portfolio.git)_
+
 
 ## **Known Bugs**
 
-  
-
-_No known bugs as of **05/29/2020**_
-
-  
+_No known bugs as of **06/07/2020**_
 
 ## **Support and contact details**
 
-  
-
 _Questions, comments and concerns can be directed to the author [Tristan Emmerson](tristan@stickerslug.com)_
-
-  
 
 ## **Technologies Used**
 
-  
-
 _**Additional software used in creation:** [Visual Studio Code](https://code.visualstudio.com/) (v1.45)_
-
-  
 
 ## **License**
 
 
 MIT License
-Copyright (c) 2020 **_Tristan Emmerson, President [Stickerslug Incorporated](http://stickerslug.com)_**
+Copyright (c) 2020 **_Tristan Emmerson, [Stickerslug](tristan@stickerslug.com)_**
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

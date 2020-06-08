@@ -33,5 +33,14 @@ li {
 body {
   background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
   background-color: #c5c5c5;
+  padding: 50px
  }
 
+.box-model {
+  background-color: lightgrey;
+  width: 400px;
+  border: 2px solid rgb(15, 12, 184);
+  padding: 10px;
+  margin: 5px;
+  float: right;
+}
